@@ -1,0 +1,23 @@
+{
+    "username": "Admin",
+    "password": "admin123",
+
+    "incorrectUsername": "test",
+    "incorrectPassword": "test123",
+
+    "userRole": ["Admin", "ESS"],
+
+    "status": ["Enabled", "Disabled"],
+
+    "employeeName": "James",
+    "employeeUsername": "james123",
+    "employeePassword": "Test123@QA$",
+
+
+    "baseUrlUsername" :"Admin",
+    "baseUrlPassword" :"admin123",
+    "event":"Travel Allowance",
+    "currency":"Euro",
+    "expenseType": "Accommodation",
+    "amount": "500"
+  }
