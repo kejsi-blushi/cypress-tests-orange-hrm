@@ -1,0 +1,22 @@
+{
+  "name": "technical-task",
+  "version": "1.0.0",
+  "description": "Cypress for begginers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "tests",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "kejsi blushi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
